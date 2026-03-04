@@ -16,5 +16,6 @@ The following are the published licenses:
 - [RSSL](./RSSL/): RazkarStudio Software License. Non-commercial or free, protects softwares. No rebranding, no SaaS hosting, gives patent grant.
     - [RSSL-NC-v1.0](./RSSL/RSSL-NC-v1.0.md): Non-commercial. No commercial use or sublicensing, weak copyleft.
     - [RSSL-Free-v1.0](./RSSL/RSSL-Free-v1.0.md): No copyleft, commercial use and sublicensing allowed.
+- [RSPVL-v1.0](./RSPVL-v1.0.md): RazkarStudio Private License. Proprietary content license for privately delivered assets for personal use, no redistributions allowed. Niche.
 
 Thanks for checking this repo out! Cheers, RazkarStudio.
