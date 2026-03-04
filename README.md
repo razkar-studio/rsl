@@ -13,4 +13,8 @@ The following are the published licenses:
     - [RSAL-Strict-v1.0](./RSAL/RSAL-Strict-v1.0.md): Strong copyleft, non-commercial only distribution.
     - [RSAL-View-v1.0](./RSAL/RSAL-View-v1.0.md): No distribution allowed, view-only.
 
+- [RSSL](./RSSL/): RazkarStudio Software License. Non-commercial or free, protects softwares. No rebranding, no SaaS hosting, gives patent grant.
+    - [RSSL-NC-v1.0](./RSSL/RSSL-NC-v1.0.md): Non-commercial. No commercial use or sublicensing, weak copyleft.
+    - [RSSL-Free-v1.0](./RSSL/RSSL-Free-v1.0.md): No copyleft, commercial use and sublicensing allowed.
+
 Thanks for checking this repo out! Cheers, RazkarStudio.
